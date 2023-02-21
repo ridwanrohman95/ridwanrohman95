@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ridwanrohman95
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Django web framework, Kafka and Spark
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ridwan.rohman95@gmail.com
 
